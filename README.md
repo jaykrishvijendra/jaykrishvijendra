@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nightsinker](https://github.com/nightsinker)
 
-- 💬 Ask me about **AI/ML**\
+- 💬 Ask me about **AI/ML**
 
 - 🌱 I’m currently learning **Project Management**
 
