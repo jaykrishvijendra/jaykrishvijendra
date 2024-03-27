@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
-<p align="center">Highly motivated and AI enthusiast with a passion for extracting valuable insights from complex datasets. Proficient in data manipulation, visualization, and statistical analysis. Eager to leverage strong analytical skills to contribute to data-driven decision-making and solve real-world problems. Seeking opportunities to grow and excel in the dynamic field of Artifical Intelligence.</p>
+<h3 align="center">Highly motivated and AI enthusiast with a passion for extracting valuable insights from complex datasets. Proficient in data manipulation, visualization, and statistical analysis. Eager to leverage strong analytical skills to contribute to data-driven decision-making and solve real-world problems. Seeking opportunities to grow and excel in the dynamic field of Artifical Intelligence.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/nightsinker](https://github.com/nightsinker)
 
